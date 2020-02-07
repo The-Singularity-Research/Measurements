@@ -9,6 +9,6 @@ The Bell States Notebook can be viewed in the [Jupyter nbviewer](https://nbviewe
 
 and then run a quantum circuit that creates the four Bell states: 
 
-![Bell State Quantum Circuit](https://upload.wikimedia.org/wikipedia/commons/b/bb/H_CNOTGate.png)
+![Bell State Quantum Circuit](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/H_CNOTGate.png/320px-H_CNOTGate.png)
 
 It also shows how to compute multiple-shot sampling of the Bell state that is created. 
